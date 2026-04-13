@@ -1,7 +1,7 @@
 package auto_scripts;
 
 public class AddNumbers {
-    // Existing method to add numbers (preserved)
+    // Existing method to add two numbers
     public int add(int a, int b) {
         return a + b;
     }
