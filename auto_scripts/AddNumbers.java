@@ -6,12 +6,12 @@ public class AddNumbers {
         return a + b;
     }
 
-    // Method to reverse a string
+    // Method to reverse a string (added by automation)
     public String reverseString(String input) {
         return new StringBuilder(input).reverse().toString();
     }
 
-    // Method to check if a string is a palindrome
+    // Method to check if a string is a palindrome (added by automation)
     public boolean isPalindrome(String input) {
         String reversed = reverseString(input);
         return input.equals(reversed);
