@@ -1,0 +1,4 @@
+|  | receive_date | eventGun | eventCategory | privacyDetailError |
+| --- | --- | --- | --- | --- |
+| 0 | 2026-04-25 | com.hp.cdm.service.eventing.resource.eventDetail.type.fwUpdate.platform.sirius.version.2 | fwUpdate |  |
+| 1 | 2026-04-25 | com.hp.cdm.service.eventing.resource.eventDetail.type.fwUpdate.platform.sirius.version.2 | fwUpdate |  |
