@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test>
+  <description>Sample XML to test code processing.</description>
+  <example>
+    <input>test</input>
+    <output>passed</output>
+  </example>
+</test>
